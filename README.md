@@ -7,7 +7,7 @@
  
 <body> 
   <h1 align="center">Hey👋 </h1>
-  <h2 align="center">I'm Sam</h2>
+  <h2 align="center">I'm Debrah</h2>
   <h3 align="center"> Hobbies : Painting, Theatre , Dancing </h3>
   <h3 align="center"> Interests: Software Engineering, Backend Development, Cloud Computing, Design </h3>
  
