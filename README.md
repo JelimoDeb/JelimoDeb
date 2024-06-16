@@ -22,7 +22,9 @@
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-  <a href="https:www.linkedin.com/in/debrah-jelimo-5125a1229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JelimoDebrah" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/debrahjelimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JelimoDebrah" height="30" width="40" /></a>
+
+    
   <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gatoto.s" height="30" width="40" /></a>
   <a href="https:// https://www.hackerrank.com/profile/jelimomaiyo301" target="blank"><img align="center" src="https://github.com/samkamau81/samkamau81/blob/master/hackerrank_logo_logos_icon.svg" alt="_debrah" height="30" width="40" /></a>
 <!--   <a href="https://www.kaggle.com/samuelkamau" target="blank"><img align="center" 
